@@ -2,7 +2,7 @@
 
 Copy the code for the element you are designing and then paste your content or put your content in the correct location. 
 
-This is indicated by ```<!-- PUT YOUR CONTENT HERE--> ```
+You can replace the text by either editing the code itself or using the Rich Content Editor (RCE) in Canvas. Note that, when using the RCE your content will not look the same until you push save. 
 
 # Large image
 ```
