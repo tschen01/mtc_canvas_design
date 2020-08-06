@@ -1,3 +1,9 @@
+# Instructions
+
+Copy the code for the element you are designing and then paste your content or put your content in the correct location. 
+
+This is indicated by ```<!-- PUT YOUR CONTENT HERE--> ```
+
 # Large image
 ```
 <p>
