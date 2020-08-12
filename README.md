@@ -13,6 +13,7 @@ You can replace the text by either editing the code itself or using the Rich Con
 Ensure that your content aligns with the [accessibility standards](https://docs.google.com/spreadsheets/d/1NNRj5B15mRpEOV75AvWWHEYyYt88Uf66EXnkGEC-U0A/edit?usp=sharing).
 
 # Elements
+For visual examples, either copy the html and paste it in your RCE or visit this [sandbox course](https://missionary.instructure.com/courses/945/pages/design-guide?module_item_id=170082)
 
 ## Large image
 ```
