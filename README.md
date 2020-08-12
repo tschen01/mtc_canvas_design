@@ -1,17 +1,27 @@
-# Instructions
+# Template Marketplace
+
+## Instructions
+### 1. Choose Your Element(s):
 
 Copy the code for the element you are designing and then paste your content or put your content in the correct location. 
 
 You can replace the text by either editing the code itself or using the Rich Content Editor (RCE) in Canvas. Note that, when using the RCE your content will not look the same until you push save. 
 
-# Large image
+
+### 2. Align with Accessibility Standards:
+
+Ensure that your content aligns with the [accessibility standards](https://docs.google.com/spreadsheets/d/1NNRj5B15mRpEOV75AvWWHEYyYt88Uf66EXnkGEC-U0A/edit?usp=sharing).
+
+# Elements
+
+## Large image
 ```
 <p>
     <img src="https://www.ahopecenter.org/img/Grey%20Rectangle%20for%20Website.jpg?t=1585572608" width="100%" />
 </p>
 ```
 
-# Subheading Text with Instructions
+## Subheading Text with Instructions
 ```
 <p>
     <em>
@@ -31,7 +41,7 @@ You can replace the text by either editing the code itself or using the Rich Con
 </p>
 ```
 
-# Button Grid (for schedule)
+## Button Grid (for schedule)
 ```
 <div class="content-box">
     <span>The words hadn't flowed from his fingers for the past few weeks. He never imagined he'd find himself with writer's
@@ -117,7 +127,7 @@ You can replace the text by either editing the code itself or using the Rich Con
 </div>
 ```
 
-# Single Wide Button with Icon
+## Single Wide Button with Icon
 ```
 <p>
     <span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
@@ -137,7 +147,7 @@ You can replace the text by either editing the code itself or using the Rich Con
 </div>
 ```
 
-# Two Columns of Wide Buttons
+## Two Columns of Wide Buttons
 ```
 <p>
     <span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
@@ -167,7 +177,7 @@ You can replace the text by either editing the code itself or using the Rich Con
 </div>
 ```
 
-# Body Copy with Portrait Image
+## Body Copy with Portrait Image
 ```
 <table style="border-collapse: collapse; width: 210px; height: 229px; float: left;">
     <tbody>
@@ -199,7 +209,7 @@ You can replace the text by either editing the code itself or using the Rich Con
 </p>
 ```
 
-# Body Copy with Landscape Image
+## Body Copy with Landscape Image
 ```
 <p>
     <img style="float: left; margin-right: 10px;" src="https://www.ahopecenter.org/img/Grey%20Rectangle%20for%20Website.jpg?t=1585572608" width="40%" height="37%" />
@@ -222,7 +232,7 @@ You can replace the text by either editing the code itself or using the Rich Con
 </p>
 ```
 
-# Image in the Middle
+## Image in the Middle
 ```
 <p><span style="font-size: 18pt;">Image in the Middle</span></p>
 <p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://img.buzzfeed.com/buzzfeed-static/static/2020-03/5/23/enhanced/25a67c968a0a/enhanced-262-1583449224-1.png?downsize=900:*&amp;output-format=auto&amp;output-quality=auto" alt="noah_building_ark-1.jpeg"
@@ -232,7 +242,7 @@ You can replace the text by either editing the code itself or using the Rich Con
 </p>
 ```
 
-# Quotes & Caption
+## Quotes & Caption
 ```
 <p style="font-family: inherit; font-size: 1rem;" data-aid="128202910">&nbsp;</p>
 <p style="font-family: inherit; font-size: 1rem; text-align: center;" data-aid="128202910"><em><span style="font-size: 12pt;"><span style="font-family: inherit;">"I am so thoroughly convinced that if we don&rsquo;t set goals in our life and learn how to </span></span></em><em><span style="font-size: 12pt;"><span style="font-family: inherit;">master the technique of living to reach our goals, we can reach a ripe old age and look back on our life only to see that we reached but a small part of our full potential. When you learn to master the principle of setting a goal, you will then be able to make a great difference in the results you attain in this life."</span></span></em></p>
@@ -279,14 +289,14 @@ You can replace the text by either editing the code itself or using the Rich Con
 </p>
 ```
 
-# Excerpt
+## Excerpt
 ```
 <blockquote style="border-left: 5px solid #2e354e;">
     <p id="p88" data-aid="128199493"><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sit amet facilisis magna etiam tempor. Gravida arcu ac tortor dignissim. Pellentesque habitant morbi tristique senectus. Consequat ac felis donec et odio pellentesque diam. In pellentesque massa placerat duis ultricies lacus sed turpis. Eu augue ut lectus arcu bibendum at varius. Faucibus et molestie ac feugiat sed lectus vestibulum. Amet tellus cras adipiscing enim eu turpis. Blandit massa enim nec dui nunc. Pretium lectus quam id leo in vitae turpis. Hendrerit gravida rutrum quisque non. Diam quis enim lobortis scelerisque. Euismod nisi porta lorem mollis aliquam ut porttitor. Quam quisque id diam vel quam elementum. Fringilla phasellus faucibus scelerisque eleifend donec pretium vulputate sapien.&nbsp; Amet dictum sit amet justo. Dolor sit amet consectetur adipiscing elit ut aliquam purus sit. Adipiscing commodo elit at imperdiet dui accumsan sit amet. Donec massa sapien faucibus et. Imperdiet massa tincidunt nunc pulvinar sapien. Pulvinar mattis nunc sed blandit libero volutpat sed. Tincidunt eget nullam non nisi est. Pellentesque sit amet porttitor eget. Vel orci porta non pulvinar neque laoreet. Urna neque viverra justo nec ultrices dui sapien eget mi.</span></p>
 </blockquote>
 ```
 
-# Activity
+## Activity
 ```
 <h3 style="background-color: #2e354e;" data-aid="128202856"><span style="font: 14pt InstructureIcons-Line; color: #ffffff; position: centered; margin-left: 1.5em;"> ACTIVITY</span></h3>
 <ul>
@@ -298,7 +308,7 @@ You can replace the text by either editing the code itself or using the Rich Con
 <p style="padding-left: 10px;">&nbsp;</p>
 ```
 
-# Scripture
+## Scripture
 ```
 <h3 style="background-color: #2e354e;" data-aid="128202856"><span style="font: 14pt InstructureIcons-Line; color: #ffffff; position: centered; margin-left: 1.5em;"> SCRIPTURE STUDY</span></h3>
 <p style="padding-left: 10px;"><span style="font-size: 12pt;">This is something I needed to type... malesuada fames ac turpis egstas aslkdn alskdklasmd</span></p>
@@ -320,7 +330,7 @@ You can replace the text by either editing the code itself or using the Rich Con
 </table>
 ```
 
-# List with Bullets
+## List with Bullets
 ```
 <ul>
     <li><span style="font-size: 12pt;">This is something I needed to type... malesuada fames ac turpis egstas aslkdn alskdklasmd</span></li>
@@ -330,7 +340,7 @@ You can replace the text by either editing the code itself or using the Rich Con
 </ul>
 ```
 
-# List with Icons
+## List with Icons
 ```
 <table style="height: 28px; width: 100%; border-collapse: collapse;" border="0">
     <tbody>
@@ -358,14 +368,14 @@ You can replace the text by either editing the code itself or using the Rich Con
 </table>
 ```
 
-# Embedded Video
+## Embedded Video
 ```
 <p>Watch the video tutorial below or click here to view: <span style="color: #666699; font-size: 12pt;"><a class="scripture-ref external" style="color: #666699;" href="https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/13?lang=eng">thisisthelink.com</a></span></p>
 <p><iframe src="//www.youtube.com/embed/shYn3Ys3ygE" width="560" height="315" sandbox="allow-scripts allow-forms allow-same-origin" allowfullscreen="allowfullscreen" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe></p>
 <p>&nbsp;</p>
 ```
 
-# Subheading Text with Icon
+## Subheading Text with Icon
 ```
 <p>
     <a id="" class="icon-Solid icon-facebook-boxed"></a> <span style="font-size: 18pt;">Subheading Text with Icon</span></p>
