@@ -147,7 +147,7 @@ For visual examples, either copy the html and paste it in your RCE or visit this
     </div>
 </div>
 ```
-# Other Icons List: https://canvas.instructure.com/courses/787387/pages/canvas-icons
+#### Other Icons List: https://canvas.instructure.com/courses/787387/pages/canvas-icons
 
 ## Two Columns of Wide Buttons
 ```
