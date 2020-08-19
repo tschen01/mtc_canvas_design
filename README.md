@@ -147,7 +147,6 @@ For visual examples, either copy the html and paste it in your RCE or visit this
     </div>
 </div>
 ```
-### Other Icons List: https://canvas.instructure.com/courses/787387/pages/canvas-icons
 
 ## Two Columns of Wide Buttons
 ```
@@ -385,3 +384,6 @@ For visual examples, either copy the html and paste it in your RCE or visit this
 <p>&nbsp;</p>
 <p>Need help? Ask the <a class="external" title="Link" href="https://provo.mtc.byu.edu/virtual-info-desk" target="_blank" rel="noopener">Virtual Help Desk</a> !</p>
 ```
+
+## Resources
+### Other Icons List: https://canvas.instructure.com/courses/787387/pages/canvas-icons
