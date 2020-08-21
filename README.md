@@ -387,3 +387,4 @@ For visual examples, either copy the html and paste it in your RCE or visit this
 
 ## Resources
 ### Other Icons List: https://canvas.instructure.com/courses/787387/pages/canvas-icons
+### Flexbox: https://community.canvaslms.com/t5/Instructional-Designer/Flexbox-Grid-tips-and-guides/m-p/100047
