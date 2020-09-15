@@ -379,10 +379,9 @@ For visual examples, either copy the html and paste it in your RCE or visit this
 ## Subheading Text with Icon
 ```
 <p>
-    <a id="" class="icon-Solid icon-facebook-boxed"></a> <span style="font-size: 18pt;">Subheading Text with Icon</span></p>
+<h3><span class="icon-line icon-outcomes" style="font: 18pt InstructureIcons-Line; position: centered;"> <span style="font-family: lato;">&nbsp; Subheading Text with Icons</span></span></h3>
 <p><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.&nbsp;</span></p>
 <p>&nbsp;</p>
-<p>Need help? Ask the <a class="external" title="Link" href="https://provo.mtc.byu.edu/virtual-info-desk" target="_blank" rel="noopener">Virtual Help Desk</a> !</p>
 ```
 
 ## Resources
