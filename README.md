@@ -299,7 +299,7 @@ For visual examples, either copy the html and paste it in your RCE or visit this
 
 ## Activity
 ```
-<h3 style="background-color: #2e354e;" data-aid="128202856"><span style="font: 14pt InstructureIcons-Line; color: #ffffff; position: centered; margin-left: 1.5em;"> ACTIVITY</span></h3>
+<h3 style="background-color: #2e354e;" data-aid="128202856"><span class="icon-line icon-annotate" style="font: 14pt InstructureIcons-line; color: #ffffff; position: centered; margin-left: 0.75em;"><span style="font-family: lato;">&nbsp; ACTIVITY</span></span></h3>
 <ul>
     <li><span style="font-size: 12pt;">This is something I needed to type... malesuada fames ac turpis egstas aslkdn alskdklasmd</span></li>
     <li><span style="font-size: 12pt;">This is something I needed to type... malesuada fames ac turpis egstas aslkdn alskdklasmd</span></li>
@@ -311,7 +311,7 @@ For visual examples, either copy the html and paste it in your RCE or visit this
 
 ## Scripture
 ```
-<h3 style="background-color: #2e354e;" data-aid="128202856"><span style="font: 14pt InstructureIcons-Line; color: #ffffff; position: centered; margin-left: 1.5em;"> SCRIPTURE STUDY</span></h3>
+<h3 style="background-color: #2e354e;" data-aid="128202856"><span class="icon-line icon-courses" style="font: 14pt InstructureIcons-line; color: #ffffff; position: centered; margin-left: 0.75em;"><span style="font-family: lato;">&nbsp; SCRIPTURE STUDY</span></span></h3>
 <p style="padding-left: 10px;"><span style="font-size: 12pt;">This is something I needed to type... malesuada fames ac turpis egstas aslkdn alskdklasmd</span></p>
 <table style="width: 100%; border-collapse: collapse; height: 84px;" border="0">
     <tbody>
