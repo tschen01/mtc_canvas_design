@@ -56,7 +56,7 @@ For visual examples, either copy the html and paste it in your RCE or visit this
     <div class="col-xs-12 content-box col-md-4">
         <p>
             <span style="font-size: 12pt;">
-                <a class="btn btn-info" style="font-family: inherit;" title="Link" href="https://missionary.beta.instructure.com/calendar" data-api-endpoint="https://missionary.instructure.com/calendar" data-api-returntype="Discussion">button/link
+                <a class="btn" style="font-family: inherit; color: #ffffff; background-color: #2e354e;" title="Link" href="https://missionary.beta.instructure.com/calendar" data-api-endpoint="https://missionary.instructure.com/calendar" data-api-returntype="Discussion">button/link
                 </a>
             </span>
         </p>
@@ -64,7 +64,7 @@ For visual examples, either copy the html and paste it in your RCE or visit this
     <div class="col-xs-12 content-box col-md-4">
         <p>
             <span style="font-size: 12pt;">
-                <a class="btn btn-info" style="font-family: inherit;" title="Link" href="https://missionary.beta.instructure.com/calendar" data-api-endpoint="https://missionary.instructure.com/calendar" data-api-returntype="Discussion">button/link
+                <a class="btn" style="font-family: inherit; color: #ffffff; background-color: #2e354e;" title="Link" href="https://missionary.beta.instructure.com/calendar" data-api-endpoint="https://missionary.instructure.com/calendar" data-api-returntype="Discussion">button/link
                 </a>
             </span>
         </p>
@@ -72,7 +72,7 @@ For visual examples, either copy the html and paste it in your RCE or visit this
     <div class="col-xs-12 content-box col-md-4">
         <p>
             <span style="font-size: 12pt;">
-                <a class="btn btn-info" style="font-family: inherit;" title="Link" href="https://missionary.beta.instructure.com/calendar" data-api-endpoint="https://missionary.instructure.com/calendar" data-api-returntype="Discussion">button/link
+                <a class="btn" style="font-family: inherit; color: #ffffff; background-color: #2e354e;" title="Link" href="https://missionary.beta.instructure.com/calendar" data-api-endpoint="https://missionary.instructure.com/calendar" data-api-returntype="Discussion">button/link
                 </a>
             </span>
         </p>
@@ -80,7 +80,7 @@ For visual examples, either copy the html and paste it in your RCE or visit this
     <div class="col-xs-12 content-box col-md-4">
         <p>
             <span style="font-size: 12pt;">
-                <a class="btn btn-info" style="font-family: inherit;" title="Link" href="https://missionary.beta.instructure.com/calendar" data-api-endpoint="https://missionary.instructure.com/calendar" data-api-returntype="Discussion">button/link
+                <a class="btn" style="font-family: inherit; color: #ffffff; background-color: #2e354e;" title="Link" href="https://missionary.beta.instructure.com/calendar" data-api-endpoint="https://missionary.instructure.com/calendar" data-api-returntype="Discussion">button/link
                 </a>
             </span>
         </p>
@@ -88,7 +88,7 @@ For visual examples, either copy the html and paste it in your RCE or visit this
     <div class="col-xs-12 content-box col-md-4">
         <p>
             <span style="font-size: 12pt;">
-                <a class="btn btn-info" style="font-family: inherit;" title="Link" href="https://missionary.beta.instructure.com/calendar" data-api-endpoint="https://missionary.instructure.com/calendar" data-api-returntype="Discussion">button/link
+                <a class="btn" style="font-family: inherit; color: #ffffff; background-color: #2e354e;" title="Link" href="https://missionary.beta.instructure.com/calendar" data-api-endpoint="https://missionary.instructure.com/calendar" data-api-returntype="Discussion">button/link
                 </a>
             </span>
         </p>
@@ -96,7 +96,7 @@ For visual examples, either copy the html and paste it in your RCE or visit this
     <div class="col-xs-12 content-box col-md-4">
         <p>
             <span style="font-size: 12pt;">
-                <a class="btn btn-info" style="font-family: inherit;" title="Link" href="https://missionary.beta.instructure.com/calendar" data-api-endpoint="https://missionary.instructure.com/calendar" data-api-returntype="Discussion">button/link
+                <a class="btn" style="font-family: inherit; color: #ffffff; background-color: #2e354e;" title="Link" href="https://missionary.beta.instructure.com/calendar" data-api-endpoint="https://missionary.instructure.com/calendar" data-api-returntype="Discussion">button/link
                 </a>
             </span>
         </p>
@@ -104,7 +104,7 @@ For visual examples, either copy the html and paste it in your RCE or visit this
     <div class="col-xs-12 content-box col-md-4">
         <p>
             <span style="font-size: 12pt;">
-                <a class="btn btn-info" style="font-family: inherit;" title="Link" href="https://missionary.beta.instructure.com/calendar" data-api-endpoint="https://missionary.instructure.com/calendar" data-api-returntype="Discussion">button/link
+                <a class="btn" style="font-family: inherit; color: #ffffff; background-color: #2e354e;" title="Link" href="https://missionary.beta.instructure.com/calendar" data-api-endpoint="https://missionary.instructure.com/calendar" data-api-returntype="Discussion">button/link
                 </a>
             </span>
         </p>
@@ -112,7 +112,7 @@ For visual examples, either copy the html and paste it in your RCE or visit this
     <div class="col-xs-12 content-box col-md-4">
         <p>
             <span style="font-size: 12pt;">
-                <a class="btn btn-info" style="font-family: inherit;" title="Link" href="https://missionary.beta.instructure.com/calendar" data-api-endpoint="https://missionary.instructure.com/calendar" data-api-returntype="Discussion">button/link
+                <a class="btn" style="font-family: inherit; color: #ffffff; background-color: #2e354e;" title="Link" href="https://missionary.beta.instructure.com/calendar" data-api-endpoint="https://missionary.instructure.com/calendar" data-api-returntype="Discussion">button/link
                 </a>
             </span>
         </p>
@@ -120,7 +120,7 @@ For visual examples, either copy the html and paste it in your RCE or visit this
     <div class="col-xs-12 content-box col-md-4">
         <p>
             <span style="font-size: 12pt;">
-                <a class="btn btn-info" style="font-family: inherit;" title="Link" href="https://missionary.beta.instructure.com/calendar" data-api-endpoint="https://missionary.instructure.com/calendar" data-api-returntype="Discussion">button/link
+                <a class="btn" style="font-family: inherit; color: #ffffff; background-color: #2e354e;" title="Link" href="https://missionary.beta.instructure.com/calendar" data-api-endpoint="https://missionary.instructure.com/calendar" data-api-returntype="Discussion">button/link
                 </a>
             </span>
         </p>
@@ -140,7 +140,7 @@ For visual examples, either copy the html and paste it in your RCE or visit this
     <div class="col-xs-12 content-box col-lg-12">
         <p>
             <span>
-                <a class="btn btn-info icon-video external " style="padding-left: 40px; padding-right: 40px;" title="Link" href="https://missionary.churchofjesuschrist.org/portal/safety-zone" target="_blank" rel="noopener">&nbsp;&nbsp;button/link
+                <a class="btn btn-info icon-video external " style="color: #ffffff; background-color: #2e354e; padding-left: 40px; padding-right: 40px;" title="Link" href="https://missionary.churchofjesuschrist.org/portal/safety-zone" target="_blank" rel="noopener">&nbsp;&nbsp;button/link
                 </a>
             </span>
         </p>
@@ -158,22 +158,22 @@ For visual examples, either copy the html and paste it in your RCE or visit this
 </p>
 <div class="grid-row" style="margin: 1em;">
     <div class="col-xs-12 content-box col-md-6 ">
-        <p><span><a class="btn btn-info external " style="padding-left: 50px; padding-right: 50px;" title="Link" href="https://missionary.churchofjesuschrist.org/portal/safety-zone" target="_blank" rel="noopener">&nbsp;&nbsp;button/link</a></span></p>
+        <p><span><a class="btn btn-info external " style="color: #ffffff; background-color: #2e354e; padding-left: 50px; padding-right: 50px;" title="Link" href="https://missionary.churchofjesuschrist.org/portal/safety-zone" target="_blank" rel="noopener">&nbsp;&nbsp;button/link</a></span></p>
     </div>
     <div class="col-xs-12 content-box col-md-6 ">
-        <p><span><a class="btn btn-info external " style="padding-left: 50px; padding-right: 50px;" title="Link" href="https://missionary.churchofjesuschrist.org/portal/safety-zone" target="_blank" rel="noopener">&nbsp;&nbsp;button/link</a></span></p>
+        <p><span><a class="btn btn-info external " style="color: #ffffff; background-color: #2e354e; padding-left: 50px; padding-right: 50px;" title="Link" href="https://missionary.churchofjesuschrist.org/portal/safety-zone" target="_blank" rel="noopener">&nbsp;&nbsp;button/link</a></span></p>
     </div>
     <div class="col-xs-12 content-box col-md-6">
-        <p><span><a class="btn btn-info external " style="padding-left: 50px; padding-right: 50px;" title="Link" href="https://missionary.churchofjesuschrist.org/portal/safety-zone" target="_blank" rel="noopener">&nbsp;&nbsp;button/link</a></span></p>
+        <p><span><a class="btn btn-info external " style="color: #ffffff; background-color: #2e354e; padding-left: 50px; padding-right: 50px;" title="Link" href="https://missionary.churchofjesuschrist.org/portal/safety-zone" target="_blank" rel="noopener">&nbsp;&nbsp;button/link</a></span></p>
     </div>
     <div class="col-xs-12 content-box col-md-6">
-        <p><span><a class="btn btn-info external " style="padding-left: 50px; padding-right: 50px;" title="Link" href="https://missionary.churchofjesuschrist.org/portal/safety-zone" target="_blank" rel="noopener">&nbsp;&nbsp;button/link</a></span></p>
+        <p><span><a class="btn btn-info external " style="color: #ffffff; background-color: #2e354e; padding-left: 50px; padding-right: 50px;" title="Link" href="https://missionary.churchofjesuschrist.org/portal/safety-zone" target="_blank" rel="noopener">&nbsp;&nbsp;button/link</a></span></p>
     </div>
     <div class="col-xs-12 content-box col-md-6">
-        <p><span><a class="btn btn-info external " style="padding-left: 50px; padding-right: 50px;" title="Link" href="https://missionary.churchofjesuschrist.org/portal/safety-zone" target="_blank" rel="noopener">&nbsp;&nbsp;button/link</a></span></p>
+        <p><span><a class="btn btn-info external " style="color: #ffffff; background-color: #2e354e; padding-left: 50px; padding-right: 50px;" title="Link" href="https://missionary.churchofjesuschrist.org/portal/safety-zone" target="_blank" rel="noopener">&nbsp;&nbsp;button/link</a></span></p>
     </div>
     <div class="col-xs-12 content-box col-md-6">
-        <p><span><a class="btn btn-info external " style="padding-left: 50px; padding-right: 50px;" title="Link" href="https://missionary.churchofjesuschrist.org/portal/safety-zone" target="_blank" rel="noopener">&nbsp;&nbsp;button/link</a></span></p>
+        <p><span><a class="btn btn-info external " style="color: #ffffff; background-color: #2e354e; padding-left: 50px; padding-right: 50px;" title="Link" href="https://missionary.churchofjesuschrist.org/portal/safety-zone" target="_blank" rel="noopener">&nbsp;&nbsp;button/link</a></span></p>
     </div>
 </div>
 ```
