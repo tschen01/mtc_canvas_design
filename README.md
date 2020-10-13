@@ -343,30 +343,10 @@ For visual examples, either copy the html and paste it in your RCE or visit this
 
 ## List with Icons
 ```
-<table style="height: 28px; width: 100%; border-collapse: collapse;" border="0">
-    <tbody>
-        <tr style="height: 28px;">
-            <td style="width: 3.24505%; height: 28px;"><span style="font: 12pt InstructureIcons-Line;"></span></td>
-            <td style="width: 96.755%; height: 28px;"><span style="font-size: 12pt;">Find a verse from the Book of Mormon that teaches about God's love and share it on social media</span></td>
-        </tr>
-        <tr style="height: 28px;">
-            <td style="width: 3.24505%; height: 28px;"><span style="font: 12pt InstructureIcons-Line;"></span></td>
-            <td style="width: 96.755%;"><span style="font-size: 12pt;">Find a verse from the Book of Mormon that teaches about God's love and share it on social media</span></td>
-        </tr>
-        <tr style="height: 28px;">
-            <td style="width: 3.24505%; height: 28px;"><span style="font: 12pt InstructureIcons-Line;"></span></td>
-            <td style="width: 96.755%;"><span style="font-size: 12pt;">Find a verse from the Book of Mormon that teaches about God's love and share it on social media</span></td>
-        </tr>
-        <tr style="height: 28px;">
-            <td style="width: 3.24505%; height: 28px;"><span style="font: 12pt InstructureIcons-Line;"></span></td>
-            <td style="width: 96.755%;"><span style="font-size: 12pt;">Find a verse from the Book of Mormon that teaches about God's love and share it on social media</span></td>
-        </tr>
-        <tr style="height: 28px;">
-            <td style="width: 3.24505%; height: 28px;"><span style="font: 12pt InstructureIcons-Line;"></span></td>
-            <td style="width: 96.755%;"><span style="font-size: 12pt;">Find a verse from the Book of Mormon that teaches about God's love and share it on social media</span></td>
-        </tr>
-    </tbody>
-</table>
+<p><span class="icon-line icon-check" style="font: 12pt InstructureIcons-line;"><span style="font-family: lato;">&nbsp; &nbsp; Find a verse from the Book of Mormon that teaches about God's love and share it on social media</span></span></p>
+<p><span class="icon-line icon-check" style="font: 12pt InstructureIcons-line;"><span style="font-family: lato;">&nbsp; &nbsp; Find a verse from the Book of Mormon that teaches about God's love and share it on social media</span></span></p>
+<p><span class="icon-line icon-check" style="font: 12pt InstructureIcons-line;"><span style="font-family: lato;">&nbsp; &nbsp; Find a verse from the Book of Mormon that teaches about God's love and share it on social media</span></span></p>
+<p><span class="icon-line icon-check" style="font: 12pt InstructureIcons-line;"><span style="font-family: lato;">&nbsp; &nbsp; Find a verse from the Book of Mormon that teaches about God's love and share it on social media</span></span></p>
 ```
 
 ## Embedded Video
